@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VergieeMan
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, Python, R, Tableau and Power Bi
+- 📫 How to reach me LinkedIn: https://linkedin.com/in/vergil-wong-272046170
